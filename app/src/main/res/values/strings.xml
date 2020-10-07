@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSONVolley_TPK_02</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="jsonLink">https://api.jsonbin.io/b/5f7bc37d65b18913fc5b09c7/1</string>
+</resources>
